@@ -4,7 +4,7 @@ This project is test project to publish my own NPM packages.
 Also try to set up GitHub Actions.
 
 ```
-npm add npm-publish-taco
+npm install npm-publish-taco
 ```
 
 Published here;
