@@ -10,6 +10,7 @@
     "scripts": {
         "build": "",
         "test": "mocha ./**/spec.js",
+        "ci": "npm test",
         "prepublishOnly": "npm run build"
     },
     "author": "bakisunsan",
