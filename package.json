@@ -1,0 +1,12 @@
+{
+    "name": "npm-publihs-taco",
+    "version": "1.1.0",
+    "description": "test project for publishing npm modules",
+    "main": "index.js",
+    "scripts": {
+        "build": "",
+        "prepublishOnly": "npm run build"
+    },
+    "author": "bakisunsan",
+    "license": "MIT"
+}
